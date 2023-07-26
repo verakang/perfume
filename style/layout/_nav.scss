@@ -1,0 +1,34 @@
+.logo {
+  display: block;
+  width: 128px;
+  height: 38px;
+  background-image: url(/img/d’Perfume.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-indent: 101%;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.nav {
+  .nav-item {
+    padding: 8px 0;
+  }
+  .nav-link {
+    color: #8D8D8D;
+    line-height: 24px;
+    &:hover {
+      color: #000;
+    }
+  }
+}
+
+.nav-icon {
+  font-size: 24px;
+  margin-right: 4px;
+  vertical-align: -5px;
+}
+
+.active {
+  color: #000;
+}

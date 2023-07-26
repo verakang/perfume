@@ -1,0 +1,38 @@
+.topbar {
+  background-color: #916000;
+  padding: 14px 0;
+}
+.brend-list a:hover {
+  opacity: 0.7;
+}
+.content {
+  padding: 80px 0;
+}
+.product-img {
+  height: 255px;
+  transition: 0.5s;
+  &:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+  }
+}
+.icons a {
+  color: #916000;
+}
+.price-del {
+  color: #8D8D8D;
+}
+.pagination {
+  margin-top: 80px;
+}
+.pagination-list a {
+  color: #000;
+  padding-bottom: 4px;
+  &:hover {
+    border-bottom: 2px solid #916000;
+  }
+}
+.pagination-list .pagination-active {
+  color: #916000;
+  border-bottom: 2px solid #916000;
+}
