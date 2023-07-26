@@ -11934,7 +11934,7 @@ img {
   display: block;
   width: 128px;
   height: 38px;
-  background-image: url(/img/d’Perfume.png);
+  background-image: url(../img/d’Perfume.png);
   background-repeat: no-repeat;
   background-size: cover;
   text-indent: 101%;
@@ -11964,7 +11964,7 @@ img {
 }
 
 .subs {
-  background-image: url(/img/footer-img.jpg);
+  background-image: url(../img/footer-img.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 100%;
@@ -11990,7 +11990,7 @@ img {
   display: block;
   width: 128px;
   height: 38px;
-  background-image: url(/img/d’Perfume-white.png);
+  background-image: url(../img/d’Perfume-white.png);
   background-repeat: no-repeat;
   background-size: cover;
   text-indent: 101%;
@@ -12017,7 +12017,7 @@ img {
 
 .banner {
   height: 650px;
-  background-image: url(/img/banner.jpg);
+  background-image: url(../img/banner.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
