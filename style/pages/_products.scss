@@ -18,6 +18,9 @@
 }
 .icons a {
   color: #916000;
+  &:hover {
+    opacity: 0.7;
+  }
 }
 .price-del {
   color: #8D8D8D;
